@@ -1,3 +1,7 @@
+# NodeBaseEditor
+
+I watched and built this video:[Build a Node Based Flow Editor From Scratch!](https://youtu.be/1JNbGf8dhAQ?si=5SdWuZX153QP-SLG)
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
