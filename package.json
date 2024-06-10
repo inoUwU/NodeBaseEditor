@@ -10,13 +10,13 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@biomejs/biome": "1.8.0",
-    "solid-devtools": "^0.29.2",
-    "typescript": "^5.3.3",
-    "vite": "^5.0.11",
-    "vite-plugin-solid": "^2.8.2"
+    "@biomejs/biome": "1.8.1",
+    "solid-devtools": "^0.30.1",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.13",
+    "vite-plugin-solid": "^2.10.2"
   },
   "dependencies": {
-    "solid-js": "^1.8.11"
+    "solid-js": "^1.8.17"
   }
 }
